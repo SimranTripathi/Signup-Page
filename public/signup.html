@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Account</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+
+<body>
+
+    <div class="phone">
+
+        <div class="notch"></div>
+
+        <div class="screen">
+
+            <h2>Create Account</h2>
+            <p>Fill the details below</p>
+
+            <form action="/signup" method="POST">
+
+                <div class="input-box">
+                    <i class="fa-solid fa-user"></i>
+                    <input type="text" name="name" placeholder="Full Name" required>
+                </div>
+
+                <div class="input-box">
+                    <i class="fa-solid fa-envelope"></i>
+                    <input type="email" name="email" placeholder="Email Address" required>
+                </div>
+
+                <div class="input-box">
+                    <i class="fa-solid fa-phone"></i>
+                    <input type="tel" name="phone" placeholder="Mobile Number" required>
+                </div>
+
+                <div class="input-box">
+                    <i class="fa-solid fa-calendar"></i>
+                    <input type="date" name="dob" required>
+                </div>
+
+                <div class="gender">
+
+                    <label>
+                        <input type="radio" name="gender" value="Male" required>
+                        Male
+                    </label>
+
+                    <label>
+                        <input type="radio" name="gender" value="Female">
+                        Female
+                    </label>
+
+                    <label>
+                        <input type="radio" name="gender" value="Other">
+                        Other
+                    </label>
+
+                </div>
+
+                <div class="input-box">
+                    <i class="fa-solid fa-lock"></i>
+                    <input type="password" name="password" placeholder="Password" required>
+                </div>
+
+                <div class="input-box">
+                    <i class="fa-solid fa-lock"></i>
+                    <input type="password" name="confirmPassword" placeholder="Confirm Password" required>
+                </div>
+
+                <div class="terms">
+                    <input type="checkbox" required>
+                    I agree to the Terms & Conditions
+                </div>
+
+                <button type="submit">Create Account</button>
+
+            </form>
+
+           
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
