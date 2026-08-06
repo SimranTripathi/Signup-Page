@@ -1,4 +1,4 @@
-# Signup Page Website
+# Signup Page 
 
 A simple and responsive **Signup Page** built using **HTML, CSS, JavaScript, and Node.js**. This project allows users to register by entering their details, and the data is stored on the server using the Node.js File System (`fs`) module.
 
