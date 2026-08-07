@@ -59,6 +59,7 @@ npm install
 ```bash
 node server.js
 ```
+node install 
 
 5. Open your browser and visit:
 
