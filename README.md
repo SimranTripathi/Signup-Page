@@ -73,6 +73,7 @@ http://localhost:3000
 2. Click the **Sign Up** button.
 3. The server receives the form data.
 4. User information is saved in the `users.txt` file using the Node.js File System (`fs`) module.
+5. see the information in user.text
 
 ## Future Improvements
 
