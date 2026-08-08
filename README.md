@@ -75,6 +75,10 @@ http://localhost:3000
 4. User information is saved in the `users.txt` file using the Node.js File System (`fs`) module.
 5. see the information in user.text
 
+##Screenshot
+<img width="2850" height="1624" alt="Screenshot 2026-08-04 232714" src="https://github.com/user-attachments/assets/cfb1d714-d79d-4aec-ac5f-db0b2def272e" />
+
+
 ## Future Improvements
 
 * Store data in MongoDB/MySQL
