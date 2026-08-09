@@ -77,7 +77,7 @@ http://localhost:3000
 
 ##Screenshot of Signup-Page
 <img width="2850" height="1624" alt="Screenshot 2026-08-04 232714" src="https://github.com/user-attachments/assets/cfb1d714-d79d-4aec-ac5f-db0b2def272e" />
-![Uploading Screenshot 2026-08-04 232749.png…]()
+<img width="2864" height="1612" alt="Screenshot 2026-08-04 232749" src="https://github.com/user-attachments/assets/7caab19b-3992-4a3e-b98b-1ce22b576831" />
 
 
 ## Future Improvements
