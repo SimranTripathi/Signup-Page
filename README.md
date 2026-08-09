@@ -77,6 +77,7 @@ http://localhost:3000
 
 ##Screenshot
 <img width="2850" height="1624" alt="Screenshot 2026-08-04 232714" src="https://github.com/user-attachments/assets/cfb1d714-d79d-4aec-ac5f-db0b2def272e" />
+![Uploading Screenshot 2026-08-04 232749.png…]()
 
 
 ## Future Improvements
