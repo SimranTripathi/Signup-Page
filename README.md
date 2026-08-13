@@ -22,6 +22,7 @@ A simple and responsive **Signup Page** built using **HTML, CSS, JavaScript, and
 * Express.js
 * React.js
 * File System (`fs`) Module
+* Postman API
 
 ## Project Structure
 
