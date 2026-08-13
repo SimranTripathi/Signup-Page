@@ -5,6 +5,7 @@ A simple and responsive **Signup Page** built using **HTML, CSS, JavaScript, and
 ## Features
 
 * User-friendly signup form
+* Request process
 * Responsive design
 * Form validation
 * Password and Confirm Password fields
