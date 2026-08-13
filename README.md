@@ -20,6 +20,7 @@ A simple and responsive **Signup Page** built using **HTML, CSS, JavaScript, and
 * JavaScript
 * Node.js
 * Express.js
+* React.js
 * File System (`fs`) Module
 
 ## Project Structure
