@@ -12,6 +12,7 @@ A simple and responsive **Signup Page** built using **HTML, CSS, JavaScript, and
 * Stores user data in a text file (`users.txt`)
 * Built with Node.js and Express
 * Clean and modern UI
+* Flexible to update & delete
 
 ## Technologies Used
 
