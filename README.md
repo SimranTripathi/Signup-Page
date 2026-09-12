@@ -89,13 +89,14 @@ http://localhost:3000
 <img width="1340" height="840" alt="Screenshot 2026-08-05 211813" src="https://github.com/user-attachments/assets/d37e3ebd-e773-4472-a7ed-9ace2785c07a" />
 
 
-##Learning Outcomes – Signup Page
-* Learned to design a user-friendly registration interface.
-* Implemented form validation for user inputs such as name, email, and password.
-* Understood how to handle user authentication and registration.
-* Learned to securely manage user credentials and passwords.
-* Improved knowledge of responsive web design for different screen sizes.
-* Learned how frontend forms can communicate with the backend/database to store user information.
+## Learning Outcomes – Signup Page
+
+* Learned to create a user-friendly and attractive registration interface.
+* Implemented form validation to ensure accurate and valid user inputs.
+* Gained an understanding of user registration and authentication processes.
+* Learned basic techniques for securely handling user credentials and passwords.
+* Improved skills in designing responsive web pages for different screen sizes.
+* Understood how the frontend communicates with the backend and database to store user information.
 
   
 ## Future Improvements
