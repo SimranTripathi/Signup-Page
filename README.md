@@ -97,6 +97,8 @@ http://localhost:3000
 * Learned basic techniques for securely handling user credentials and passwords.
 * Improved skills in designing responsive web pages for different screen sizes.
 * Understood how the frontend communicates with the backend and database to store user information.
+* Stored data/information
+  
 
   
 ## Future Improvements
