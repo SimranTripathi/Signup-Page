@@ -13,6 +13,7 @@ A simple and responsive **Signup Page** built using **HTML, CSS, JavaScript, and
 * Built with Node.js and Express
 * Clean and modern UI
 * Flexible to update & delete
+* use record details 
 
 ## Technologies Used
 
@@ -22,7 +23,7 @@ A simple and responsive **Signup Page** built using **HTML, CSS, JavaScript, and
 * Node.js
 * Express.js
 * React.js
-* File System (`fs`) Module
+* File System (`fs`) Modules 
 * Postman API
 * Mongo DB
 
