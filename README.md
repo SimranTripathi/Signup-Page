@@ -13,7 +13,8 @@ A simple and responsive **Signup Page** built using **HTML, CSS, JavaScript, and
 * Built with Node.js and Express
 * Clean and modern UI
 * Flexible to update & delete
-* use record details 
+* use record details
+* add details information 
 
 ## Technologies Used
 
