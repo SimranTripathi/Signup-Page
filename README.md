@@ -1,20 +1,35 @@
-# Signup Page 
+# Signup Page
 
-A simple and responsive **Signup Page** built using **HTML, CSS, JavaScript, and Node.js**. This project allows users to register by entering their details, and the data is stored on the server using the Node.js File System (`fs`) module.
+A simple, responsive, and user-friendly **Signup Page** developed using **HTML, CSS, JavaScript, Node.js, and Express.js**. The project allows users to register by entering their personal details, validates the submitted information, and stores the user records on the server using the **Node.js File System (`fs`) module**.
 
 ## Features
 
-* User-friendly signup form
-* Request process
-* Responsive design
-* Form validation
-* Password and Confirm Password fields
-* Stores user data in a text file (`users.txt`)
-* Built with Node.js and Express
-* Clean and modern UI
-* Flexible to update & delete
-* use record details
-* add details information 
+* User-friendly and responsive signup form
+* Clean and modern user interface
+* User registration and request processing
+* Form validation using JavaScript
+* Password and Confirm Password verification
+* Stores user records in a `users.txt` text file
+* Uses **Node.js and Express.js** for backend processing
+* Handles form submission through HTTP requests
+* Records important user details such as name, email, and password
+* Supports adding new user records
+* Provides functionality to update existing records
+* Allows deletion of user records
+* Easy-to-maintain file-based data storage
+* Fast and lightweight server-side implementation
+* Flexible structure for adding more user information in the future
+* Provides basic record management for registered users
+
+## Technologies Used
+
+* **HTML** – Structure of the signup page
+* **CSS** – Styling and responsive design
+* **JavaScript** – Form validation and client-side functionality
+* **Node.js** – Server-side development
+* **Express.js** – Request handling and routing
+* **File System (`fs`) Module** – Storing and managing user records
+
 
 ## Technologies Used
 
