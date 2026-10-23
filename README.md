@@ -42,6 +42,7 @@ A simple, responsive, and user-friendly **Signup Page** developed using **HTML, 
 * File System (`fs`) Modules 
 * Postman API
 * Mongo DB
+* Moogoos
 
 ## Project Structure
 
